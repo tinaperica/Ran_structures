@@ -1,0 +1,334 @@
+file_path	chain1	chain2	resnum1	resnum2	number_of_contacts	yeastresnum
+1a2k - mamm NTF2	A	B	76	42	9	78
+1a2k - mamm NTF2	A	B	76	69	2	78
+1a2k - mamm NTF2	A	B	76	120	1	78
+1a2k - mamm NTF2	A	B	76	121	3	78
+1a2k - mamm NTF2	A	B	76	123	7	78
+1a2k - mamm NTF2	A	B	76	124	2	78
+1a2k - mamm NTF2	A	B	76	125	2	78
+1a2k - mamm NTF2	A	B	77	125	4	79
+1a2k - mamm NTF2	A	B	78	125	7	80
+1i2m - mamm GEF	A	B	76	268	3	78
+1i2m - mamm GEF	A	B	76	269	12	78
+1i2m - mamm GEF	A	B	76	334	9	78
+1i2m - mamm GEF	A	B	100	303	5	102
+1i2m - mamm GEF	A	B	103	303	2	105
+1i2m - mamm GEF	A	B	103	355	4	105
+1i2m - mamm GEF	A	B	103	371	2	105
+1i2m - mamm GEF	A	B	106	323	8	108
+1i2m - mamm GEF	A	B	106	371	1	108
+1i2m - mamm GEF	A	B	106	373	4	108
+1i2m - mamm GEF	A	B	106	384	8	108
+1i2m - mamm GEF	A	B	110	320	1	112
+1i2m - mamm GEF	A	B	110	322	6	112
+1i2m - mamm GEF	A	B	110	323	8	112
+1i2m - mamm GEF	A	B	130	104	1	132
+1i2m - mamm GEF	A	B	141	44	3	143
+1ibr - mamm KAP95	A	B	77	59	4	79
+1ibr - mamm KAP95	A	B	77	62	3	79
+1ibr - mamm KAP95	A	B	77	63	1	79
+1ibr - mamm KAP95	A	B	78	59	2	80
+1ibr - mamm KAP95	A	B	103	68	1	105
+1ibr - mamm KAP95	A	B	106	68	1	108
+1ibr - mamm KAP95	A	B	106	159	2	108
+1ibr - mamm KAP95	A	B	110	111	7	112
+1ibr - mamm KAP95	A	B	110	156	15	112
+1ibr - mamm KAP95	A	B	110	159	6	112
+1ibr - mamm KAP95	A	B	110	160	8	112
+1ibr - mamm KAP95	A	B	139	342	3	141
+1ibr - mamm KAP95	A	B	141	239	3	143
+1ibr - mamm KAP95	A	B	141	278	2	143
+1ibr - mamm KAP95	A	B	141	281	4	143
+1ibr - mamm KAP95	A	B	141	285	3	143
+1ibr - mamm KAP95	A	B	145	340	3	147
+1ibr - mamm KAP95	A	B	145	341	2	147
+1ibr - mamm KAP95	A	B	145	342	5	147
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	32	70	5	34
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	32	92	3	34
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	56	33	7	58
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	56	34	5	58
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	56	35	2	58
+1k5d - mamm GAP (C) and YRB1 (B)	A	C	76	72	1	78
+1k5d - mamm GAP (C) and YRB1 (B)	A	C	100	168	1	102
+1k5d - mamm GAP (C) and YRB1 (B)	A	C	130	225	7	132
+1k5d - mamm GAP (C) and YRB1 (B)	A	C	130	226	3	132
+1k5d - mamm GAP (C) and YRB1 (B)	A	C	130	227	1	132
+1k5d - mamm GAP (C) and YRB1 (B)	A	C	130	253	3	132
+1k5d - mamm GAP (C) and YRB1 (B)	A	C	130	255	1	132
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	139	22	4	141
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	178	38	1	180
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	178	40	1	180
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	178	91	5	180
+1k5d - mamm GAP (C) and YRB1 (B)	A	B	178	96	5	180
+1k5g - mamm GAP (C) and YRB1 (B)	A	B	32	69	1	34
+1k5g - mamm GAP (C) and YRB1 (B)	A	B	32	70	4	34
+1k5g - mamm GAP (C) and YRB1 (B)	A	B	32	92	3	34
+1k5g - mamm GAP (C) and YRB1 (B)	A	B	56	33	8	58
+1k5g - mamm GAP (C) and YRB1 (B)	A	B	56	34	4	58
+1k5g - mamm GAP (C) and YRB1 (B)	A	B	56	35	1	58
+1k5g - mamm GAP (C) and YRB1 (B)	A	C	130	225	2	132
+1k5g - mamm GAP (C) and YRB1 (B)	A	C	130	227	2	132
+1k5g - mamm GAP (C) and YRB1 (B)	A	C	130	253	2	132
+1k5g - mamm GAP (C) and YRB1 (B)	A	C	130	255	2	132
+1k5g - mamm GAP (C) and YRB1 (B)	A	B	139	22	3	141
+1k5g - mamm GAP (C) and YRB1 (B)	A	B	178	91	4	180
+1k5g - mamm GAP (C) and YRB1 (B)	A	B	178	96	5	180
+1qbk - mamm KAP104	A	B	76	72	16	78
+1qbk - mamm KAP104	A	B	76	75	6	78
+1qbk - mamm KAP104	A	B	77	72	2	79
+1qbk - mamm KAP104	A	B	78	65	4	80
+1qbk - mamm KAP104	A	B	106	165	2	108
+1qbk - mamm KAP104	A	B	110	114	4	112
+1qbk - mamm KAP104	A	B	110	117	1	112
+1qbk - mamm KAP104	A	B	110	161	4	112
+1qbk - mamm KAP104	A	B	110	165	3	112
+1qbk - mamm KAP104	A	B	139	370	4	141
+1qbk - mamm KAP104	A	B	139	373	1	141
+1qbk - mamm KAP104	A	B	141	275	5	143
+1qbk - mamm KAP104	A	B	141	278	1	143
+1qbk - mamm KAP104	A	B	141	279	8	143
+1qbk - mamm KAP104	A	B	145	371	2	147
+1qbk - mamm KAP104	A	B	145	373	4	147
+1qbk - mamm KAP104	A	B	155	333	3	157
+1qbk - mamm KAP104	A	B	155	335	2	157
+1qbk - mamm KAP104	A	B	155	336	18	157
+1rrp - mamm YRB2	A	B	32	59	1	34
+1rrp - mamm YRB2	A	B	32	60	4	34
+1rrp - mamm YRB2	A	B	32	82	2	34
+1rrp - mamm YRB2	A	B	56	24	4	58
+1rrp - mamm YRB2	A	B	56	25	5	58
+1rrp - mamm YRB2	A	B	56	26	3	58
+1rrp - mamm YRB2	A	B	56	27	4	58
+1rrp - mamm YRB2	A	B	178	86	7	180
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	76	63	3	78
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	76	66	1	78
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	76	67	1	78
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	77	59	5	79
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	77	62	5	79
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	77	63	3	79
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	78	59	2	80
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	B	99	490	3	101
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	B	99	491	1	101
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	B	99	492	3	101
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	B	99	498	4	101
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	110	62	1	112
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	110	100	1	112
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	110	103	3	112
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	110	104	5	112
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	110	107	5	112
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	B	130	502	1	132
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	B	130	506	7	132
+1wa5 - mamm CSE1 (C) and KAP60(SRP1) (B)	A	C	141	307	1	143
+2bku - mamm KAP95	A	B	32	563	2	34
+2bku - mamm KAP95	A	B	76	67	5	78
+2bku - mamm KAP95	A	B	76	76	1	78
+2bku - mamm KAP95	A	B	77	63	2	79
+2bku - mamm KAP95	A	B	77	66	4	79
+2bku - mamm KAP95	A	B	77	67	3	79
+2bku - mamm KAP95	A	B	77	117	1	79
+2bku - mamm KAP95	A	B	78	14	1	80
+2bku - mamm KAP95	A	B	78	60	1	80
+2bku - mamm KAP95	A	B	106	164	3	108
+2bku - mamm KAP95	A	B	110	117	3	112
+2bku - mamm KAP95	A	B	110	161	15	112
+2bku - mamm KAP95	A	B	110	164	3	112
+2bku - mamm KAP95	A	B	139	345	1	141
+2bku - mamm KAP95	A	B	141	295	4	143
+2bku - mamm KAP95	A	B	155	515	7	157
+2bku - mamm KAP95	A	B	155	571	2	157
+3a6p mamm MSN5 and miRNA	A	F	77	65	1	79
+3a6p mamm MSN5 and miRNA	A	F	77	118	9	79
+3a6p mamm MSN5 and miRNA	A	F	78	21	2	80
+3a6p mamm MSN5 and miRNA	A	F	78	65	4	80
+3a6p mamm MSN5 and miRNA	A	F	103	167	9	105
+3a6p mamm MSN5 and miRNA	A	F	106	159	11	108
+3a6p mamm MSN5 and miRNA	A	F	106	162	8	108
+3a6p mamm MSN5 and miRNA	A	F	106	163	6	108
+3a6p mamm MSN5 and miRNA	A	F	106	167	5	108
+3a6p mamm MSN5 and miRNA	A	F	110	110	1	112
+3a6p mamm MSN5 and miRNA	A	F	110	114	2	112
+3a6p mamm MSN5 and miRNA	A	F	110	158	3	112
+3a6p mamm MSN5 and miRNA	A	F	110	159	1	112
+3a6p mamm MSN5 and miRNA	A	F	110	162	5	112
+3a6p mamm MSN5 and miRNA	A	F	130	1085	1	132
+3a6p mamm MSN5 and miRNA	A	J	130	49	1	132
+3a6p mamm MSN5 and miRNA	A	F	145	427	2	147
+3ch5 mamm NUP60 or NUP1	A	B	56	714	7	58
+3ch5 mamm NUP60 or NUP1	A	B	78	743	2	80
+3ea5 mamm KAP95	A	B	32	563	2	34
+3ea5 mamm KAP95	A	B	76	67	1	78
+3ea5 mamm KAP95	A	B	76	76	1	78
+3ea5 mamm KAP95	A	B	77	63	2	79
+3ea5 mamm KAP95	A	B	77	66	4	79
+3ea5 mamm KAP95	A	B	77	67	3	79
+3ea5 mamm KAP95	A	B	77	117	1	79
+3ea5 mamm KAP95	A	B	78	14	1	80
+3ea5 mamm KAP95	A	B	78	60	1	80
+3ea5 mamm KAP95	A	B	106	164	2	108
+3ea5 mamm KAP95	A	B	110	117	4	112
+3ea5 mamm KAP95	A	B	110	161	12	112
+3ea5 mamm KAP95	A	B	110	164	3	112
+3ea5 mamm KAP95	A	B	139	345	4	141
+3ea5 mamm KAP95	A	B	141	288	3	143
+3ea5 mamm KAP95	A	B	145	343	7	147
+3ea5 mamm KAP95	A	B	155	515	5	157
+3ea5 mamm KAP95	A	B	155	571	1	157
+3gjx mamm CRM1	A	D	77	77	6	79
+3gjx mamm CRM1	A	D	77	81	3	79
+3gjx mamm CRM1	A	D	77	129	4	79
+3gjx mamm CRM1	A	D	78	77	2	80
+3gjx mamm CRM1	A	D	78	81	3	80
+3gjx mamm CRM1	A	D	103	181	2	105
+3gjx mamm CRM1	A	D	106	177	1	108
+3gjx mamm CRM1	A	D	106	181	9	108
+3gjx mamm CRM1	A	D	106	185	2	108
+3gjx mamm CRM1	A	D	110	132	4	112
+3gjx mamm CRM1	A	D	110	173	3	112
+3gjx mamm CRM1	A	D	110	176	5	112
+3gjx mamm CRM1	A	D	110	177	4	112
+3gjx mamm CRM1	A	D	139	364	5	141
+3gjx mamm CRM1	A	D	141	270	4	143
+3gjx mamm CRM1	A	D	145	362	1	147
+3gjx mamm CRM1	A	D	155	429	6	157
+3gjx mamm CRM1	A	D	155	445	4	157
+3gjx mamm CRM1	A	D	155	448	4	157
+3gjx mamm CRM1	A	D	155	450	1	157
+3icq yeast LOS1	A	T	78	34	8	78
+3icq yeast LOS1	A	T	78	67	1	78
+3icq yeast LOS1	A	T	79	63	9	79
+3icq yeast LOS1	A	T	80	14	1	80
+3icq yeast LOS1	A	T	80	60	1	80
+3icq yeast LOS1	A	T	80	63	2	80
+3icq yeast LOS1	A	D	101	2	1	101
+3icq yeast LOS1	A	D	101	3	1	101
+3icq yeast LOS1	A	T	102	164	1	102
+3icq yeast LOS1	A	T	108	156	3	108
+3icq yeast LOS1	A	T	108	160	3	108
+3icq yeast LOS1	A	T	108	163	3	108
+3icq yeast LOS1	A	T	112	106	1	112
+3icq yeast LOS1	A	T	112	110	11	112
+3m1i yeast YRB1 (B) and CRM1 (C)	A	B	34	105	1	34
+3m1i yeast YRB1 (B) and CRM1 (C)	A	B	34	106	3	34
+3m1i yeast YRB1 (B) and CRM1 (C)	A	B	34	128	2	34
+3m1i yeast YRB1 (B) and CRM1 (C)	A	B	58	71	3	58
+3m1i yeast YRB1 (B) and CRM1 (C)	A	B	58	72	5	58
+3m1i yeast YRB1 (B) and CRM1 (C)	A	B	58	73	7	58
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	79	65	2	79
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	79	69	1	79
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	79	117	3	79
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	80	24	5	80
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	80	65	2	80
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	101	172	2	101
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	108	169	13	108
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	112	120	2	112
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	112	161	2	112
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	112	164	5	112
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	112	165	5	112
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	132	898	1	132
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	141	357	6	141
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	143	254	2	143
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	143	258	3	143
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	147	355	3	147
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	148	357	2	148
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	157	458	5	157
+3m1i yeast YRB1 (B) and CRM1 (C)	A	C	157	460	5	157
+3m1i yeast YRB1 (B) and CRM1 (C)	A	B	180	127	6	180
+3m1i yeast YRB1 (B) and CRM1 (C)	A	B	180	132	2	180
+3nc1 mamm CRM1	A	B	76	54	1	78
+3nc1 mamm CRM1	A	B	77	77	7	79
+3nc1 mamm CRM1	A	B	77	81	2	79
+3nc1 mamm CRM1	A	B	77	129	3	79
+3nc1 mamm CRM1	A	B	78	35	1	80
+3nc1 mamm CRM1	A	B	78	81	1	80
+3nc1 mamm CRM1	A	B	103	181	2	105
+3nc1 mamm CRM1	A	B	106	177	2	108
+3nc1 mamm CRM1	A	B	106	181	4	108
+3nc1 mamm CRM1	A	B	106	185	2	108
+3nc1 mamm CRM1	A	B	110	132	2	112
+3nc1 mamm CRM1	A	B	110	173	3	112
+3nc1 mamm CRM1	A	B	110	176	2	112
+3nc1 mamm CRM1	A	B	110	177	4	112
+3nc1 mamm CRM1	A	B	139	364	4	141
+3nc1 mamm CRM1	A	B	141	266	1	143
+3nc1 mamm CRM1	A	B	141	270	5	143
+3nc1 mamm CRM1	A	B	141	324	2	143
+3nc1 mamm CRM1	A	B	145	362	4	147
+3nc1 mamm CRM1	A	B	145	364	1	147
+3nc1 mamm CRM1	A	B	146	364	1	148
+3nc1 mamm CRM1	A	B	155	429	7	157
+3nc1 mamm CRM1	A	B	155	431	2	157
+3nc1 mamm CRM1	A	B	155	445	4	157
+3nc1 mamm CRM1	A	B	155	448	7	157
+3nc1 mamm CRM1	A	B	155	450	2	157
+3w3z mamm KAP121 (PSE1)	A	C	77	69	3	79
+3w3z mamm KAP121 (PSE1)	A	C	77	73	2	79
+3w3z mamm KAP121 (PSE1)	A	C	78	66	3	80
+3w3z mamm KAP121 (PSE1)	A	C	78	69	2	80
+3w3z mamm KAP121 (PSE1)	A	C	106	206	1	108
+3w3z mamm KAP121 (PSE1)	A	C	110	72	12	112
+3w3z mamm KAP121 (PSE1)	A	C	110	124	6	112
+3w3z mamm KAP121 (PSE1)	A	C	110	161	1	112
+3w3z mamm KAP121 (PSE1)	A	C	113	117	2	115
+3w3z mamm KAP121 (PSE1)	A	C	113	120	8	115
+3w3z mamm KAP121 (PSE1)	A	C	141	244	2	143
+3w3z mamm KAP121 (PSE1)	A	C	141	251	5	143
+3w3z mamm KAP121 (PSE1)	A	C	141	287	3	143
+3w3z mamm KAP121 (PSE1)	A	C	141	354	1	143
+3wyf yeast YRB2 (B) and CRM1 (C)	A	B	34	234	1	34
+3wyf yeast YRB2 (B) and CRM1 (C)	A	B	34	235	7	34
+3wyf yeast YRB2 (B) and CRM1 (C)	A	B	58	202	12	58
+3wyf yeast YRB2 (B) and CRM1 (C)	A	B	58	203	3	58
+3wyf yeast YRB2 (B) and CRM1 (C)	A	B	58	204	2	58
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	79	65	5	79
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	79	117	5	79
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	80	24	5	80
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	80	65	3	80
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	101	172	4	101
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	108	169	10	108
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	112	116	1	112
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	112	120	2	112
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	112	161	3	112
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	112	164	5	112
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	112	165	5	112
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	141	357	5	141
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	143	254	1	143
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	143	258	5	143
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	143	317	1	143
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	147	355	5	147
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	148	357	1	148
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	157	458	10	157
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	157	460	5	157
+3wyf yeast YRB2 (B) and CRM1 (C)	A	C	157	461	1	157
+3wyf yeast YRB2 (B) and CRM1 (C)	A	B	180	257	5	180
+3wyf yeast YRB2 (B) and CRM1 (C)	A	B	180	262	4	180
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	B	32	105	2	34
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	B	32	106	2	34
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	B	32	128	2	34
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	76	69	1	78
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	76	72	1	78
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	76	73	2	78
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	77	65	3	79
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	77	117	4	79
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	78	24	5	80
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	78	65	2	80
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	99	172	2	101
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	103	169	1	105
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	103	172	4	105
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	106	169	10	108
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	106	173	3	108
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	110	120	2	112
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	110	161	2	112
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	110	164	5	112
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	110	165	5	112
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	139	357	7	141
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	141	254	2	143
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	141	258	5	143
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	141	261	1	143
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	141	317	1	143
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	145	355	5	147
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	146	357	1	148
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	155	458	6	157
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	C	155	460	5	157
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	B	178	78	1	180
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	B	178	127	5	180
+4hb2 mamm YRB1 (B) and CRM1 (C)	A	B	178	132	2	180

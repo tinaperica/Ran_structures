@@ -1,0 +1,153 @@
+structure	chain2	yeastresnum	partner
+1k5d mamm YRB1	B	34	YRB1
+1k5g mamm YRB1	B	34	YRB1
+1rrp mamm YRB2	B	34	YRB2
+2bku mamm KAP95	B	34	KAP95
+3ea5 mamm KAP95	B	34	KAP95
+3m1i yeast YRB1	B	34	YRB1
+3wyf yeast YRB2	B	34	YRB2
+4hb2 mamm YRB1	B	34	YRB1
+1k5d mamm YRB1	B	58	YRB1
+1k5g mamm YRB1	B	58	YRB1
+1rrp mamm YRB2	B	58	YRB2
+3ch5 mamm NUP60 or NUP1	B	58	NUP60 or NUP1
+3m1i yeast YRB1	B	58	YRB1
+3wyf yeast YRB2	B	58	YRB2
+1a2k mamm NTF2	B	78	NTF2
+1i2m mamm RanGEF (SRM1)	B	78	RanGEF (SRM1)
+1k5d mamm RanGAP (RNA1)	C	78	RanGAP (RNA1)
+1qbk mamm KAP104	B	78	KAP104
+1wa5 mamm CSE1	C	78	CSE1
+2bku mamm KAP95	B	78	KAP95
+3ea5 mamm KAP95	B	78	KAP95
+3icq yeast LOS1	T	78	LOS1
+3nc1 mamm CRM1	B	78	CRM1
+4hb2 mamm CRM1	C	78	CRM1
+1a2k mamm NTF2	B	79	NTF2
+1ibr mamm KAP95	B	79	KAP95
+1qbk mamm KAP104	B	79	KAP104
+1wa5 mamm CSE1	C	79	CSE1
+2bku mamm KAP95	B	79	KAP95
+3a6p mamm MSN5 (with miRNA)	F	79	MSN5 (with miRNA)
+3ea5 mamm KAP95	B	79	KAP95
+3gjx mamm CRM1	D	79	CRM1
+3icq yeast LOS1	T	79	LOS1
+3m1i yeast CRM1	C	79	CRM1
+3nc1 mamm CRM1	B	79	CRM1
+3w3z mamm KAP121 (PSE1)	C	79	KAP121 (PSE1)
+3wyf yeast CRM1	C	79	CRM1
+4hb2 mamm CRM1	C	79	CRM1
+1a2k mamm NTF2	B	80	NTF2
+1ibr mamm KAP95	B	80	KAP95
+1qbk mamm KAP104	B	80	KAP104
+1wa5 mamm CSE1	C	80	CSE1
+2bku mamm KAP95	B	80	KAP95
+3a6p mamm MSN5 (with miRNA)	F	80	MSN5 (with miRNA)
+3ch5 mamm NUP60 or NUP1	B	80	NUP60 or NUP1
+3ea5 mamm KAP95	B	80	KAP95
+3gjx mamm CRM1	D	80	CRM1
+3icq yeast LOS1	T	80	LOS1
+3m1i yeast CRM1	C	80	CRM1
+3nc1 mamm CRM1	B	80	CRM1
+3w3z mamm KAP121 (PSE1)	C	80	KAP121 (PSE1)
+3wyf yeast CRM1	C	80	CRM1
+4hb2 mamm CRM1	C	80	CRM1
+1wa5 mamm KAP60(SRP1)	B	101	KAP60(SRP1)
+3icq yeast LOS1	D	101	LOS1
+3m1i yeast CRM1	C	101	CRM1
+3wyf yeast CRM1	C	101	CRM1
+4hb2 mamm CRM1	C	101	CRM1
+1i2m mamm GEF	B	102	GEF
+1k5d mamm RanGAP (RNA1)	C	102	RanGAP (RNA1)
+3icq yeast LOS1	T	102	LOS1
+1i2m mamm GEF	B	105	GEF
+1ibr mamm KAP95	B	105	KAP95
+3a6p mamm MSN5 (with miRNA)	F	105	MSN5 (with miRNA)
+3gjx mamm CRM1	D	105	CRM1
+3nc1 mamm CRM1	B	105	CRM1
+4hb2 mamm CRM1	C	105	CRM1
+1i2m mamm RanGEF (SRM1)	B	108	RanGEF (SRM1)
+1ibr mamm KAP95	B	108	KAP95
+1qbk mamm KAP104	B	108	KAP104
+2bku mamm KAP95	B	108	KAP95
+3a6p mamm MSN5 (with miRNA)	F	108	MSN5 (with miRNA)
+3ea5 mamm KAP95	B	108	KAP95
+3gjx mamm CRM1	D	108	CRM1
+3icq yeast LOS1	T	108	LOS1
+3m1i yeast CRM1	C	108	CRM1
+3nc1 mamm CRM1	B	108	CRM1
+3w3z mamm KAP121 (PSE1)	C	108	KAP121 (PSE1)
+3wyf yeast CRM1	C	108	CRM1
+4hb2 mamm CRM1	C	108	CRM1
+1i2m mamm RanGEF (SRM1)	B	112	RanGEF (SRM1)
+1ibr mamm KAP95	B	112	KAP95
+1qbk mamm KAP104	B	112	KAP104
+1wa5 mamm CSE1	C	112	CSE1
+2bku mamm KAP95	B	112	KAP95
+3a6p mamm MSN5 (with miRNA)	F	112	MSN5 (with miRNA)
+3ea5 mamm KAP95	B	112	KAP95
+3gjx mamm CRM1	D	112	CRM1
+3icq yeast LOS1	T	112	LOS1
+3m1i yeast CRM1	C	112	CRM1
+3nc1 mamm CRM1	B	112	CRM1
+3w3z mamm KAP121 (PSE1)	C	112	KAP121 (PSE1)
+3wyf yeast CRM1	C	112	CRM1
+4hb2 mamm CRM1	C	112	CRM1
+3w3z mamm KAP121 (PSE1)	C	115	KAP121 (PSE1)
+1i2m mamm RanGEF (SRM1)	B	132	RanGEF (SRM1)
+1k5d mamm RanGAP (RNA1)	C	132	RanGAP (RNA1)
+1k5g mamm RanGAP (RNA1)	C	132	RanGAP (RNA1)
+1wa5 mamm CSE1	B	132	CSE1
+3a6p mamm MSN5 (with miRNA)	F	132	MSN5 (with miRNA)
+3a6p mamm miRNA (with MSN5)	J	132	miRNA (with MSN5)
+3m1i yeast CRM1	C	132	CRM1
+1ibr mamm KAP95	B	141	KAP95
+1k5d mamm YRB1	B	141	YRB1
+1k5g mamm YRB1	B	141	YRB1
+1qbk mamm KAP104	B	141	KAP104
+2bku mamm KAP95	B	141	KAP95
+3ea5 mamm KAP95	B	141	KAP95
+3gjx mamm CRM1	D	141	CRM1
+3m1i yeast CRM1	C	141	CRM1
+3nc1 mamm CRM1	B	141	CRM1
+3wyf yeast CRM1	C	141	CRM1
+4hb2 mamm CRM1	C	141	CRM1
+1i2m mamm RanGEF (SRM1)	B	143	RanGEF (SRM1)
+1ibr mamm KAP95	B	143	KAP95
+1qbk mamm KAP104	B	143	KAP104
+1wa5 mamm CSE1	C	143	CSE1
+2bku mamm KAP95	B	143	KAP95
+3ea5 mamm KAP95	B	143	KAP95
+3gjx mamm CRM1	D	143	CRM1
+3m1i yeast CRM1	C	143	CRM1
+3nc1 mamm CRM1	B	143	CRM1
+3w3z mamm KAP121 (PSE1)	C	143	KAP121 (PSE1)
+3wyf yeast CRM1	C	143	CRM1
+4hb2 mamm CRM1	C	143	CRM1
+1ibr mamm KAP95	B	147	KAP95
+1qbk mamm KAP104	B	147	KAP104
+3a6p mamm MSN5 (with miRNA)	F	147	MSN5 (with miRNA)
+3ea5 mamm KAP95	B	147	KAP95
+3gjx mamm CRM1	D	147	CRM1
+3m1i yeast CRM1	C	147	CRM1
+3nc1 mamm CRM1	B	147	CRM1
+3wyf yeast CRM1	C	147	CRM1
+4hb2 mamm CRM1	C	147	CRM1
+3m1i yeast CRM1	C	148	CRM1
+3nc1 mamm CRM1	B	148	CRM1
+3wyf yeast CRM1	C	148	CRM1
+4hb2 mamm CRM1	C	148	CRM1
+1qbk mamm KAP104	B	157	KAP104
+2bku mamm KAP95	B	157	KAP95
+3ea5 mamm KAP95	B	157	KAP95
+3gjx mamm CRM1	D	157	CRM1
+3m1i yeast CRM1	C	157	CRM1
+3nc1 mamm CRM1	B	157	CRM1
+3wyf yeast CRM1	C	157	CRM1
+4hb2 mamm CRM1	C	157	CRM1
+1k5d mamm YRB1	B	180	YRB1
+1k5g mamm YRB1	B	180	YRB1
+1rrp mamm YRB2	B	180	YRB2
+3m1i yeast YRB1	B	180	YRB1
+3wyf yeast YRB2	B	180	YRB2
+4hb2 mamm YRB1	B	180	YRB1

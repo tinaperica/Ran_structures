@@ -1,0 +1,27 @@
+file_path	structure_summary	partner	chain	pdb_id	species
+pdbs/clean/1a2k.pdb	1a2k mamm NTF2	NTF2	B	1a2k	mammalian
+pdbs/clean/1i2m.pdb	1i2m mamm GEF	SRM1	B	1i2m	mammalian
+pdbs/clean/1ibr.pdb	1ibr mamm KAP95	KAP95	B	1ibr	mammalian
+pdbs/clean/1k5d1.pdb	1k5d mamm GAP (C) and YRB1 (B)	RNA1	C	1k5d	mammalian
+pdbs/clean/1k5d.pdb	1k5d mamm GAP (C) and YRB1 (B)	YRB1	B	1k5d	mammalian
+pdbs/clean/1k5g1.pdb	1k5g mamm GAP (C) and YRB1 (B)	RNA1	C	1k5g	mammalian
+pdbs/clean/1k5g.pdb	1k5g mamm GAP (C) and YRB1 (B)	YRB1	B	1k5g	mammalian
+pdbs/clean/1qbk.pdb	1qbk mamm KAP104	KAP104	B	1qbk	mammalian
+pdbs/clean/1rrp.pdb	1rrp mamm YRB2	YRB2	B	1rrp	mammalian
+pdbs/clean/1wa51.pdb	1wa5 mamm CSE1 (C) and KAP60(SRP1) (B)	CSE1	C	1wa5	mammalian
+pdbs/clean/1wa5.pdb	1wa5 mamm CSE1 (C) and KAP60(SRP1) (B)	SRP1	B	1wa5	mammalian
+pdbs/clean/2bku.pdb	2bku mamm KAP95	KAP95	B	2bku	mammalian
+pdbs/clean/3a6p.pdb	3a6p mamm MSN5 and miRNA	MSN5	F	3a6p	mammalian
+pdbs/clean/3ch5.pdb	3ch5 mamm NUP60 or NUP1	NUP60	B	3ch5	mammalian
+pdbs/clean/3ch5.pdb	3ch5 mamm NUP60 or NUP1	NUP1	B	3ch5	mammalian
+pdbs/clean/3ea5.pdb	3ea5 mamm KAP95	KAP95	B	3ea5	mammalian
+pdbs/clean/3gjx.pdb	3gjx mamm CRM1	CRM1	D	3gjx	mammalian
+pdbs/clean/3icq.pdb	3icq yeast LOS1	LOS1	T	3icq	yeast
+pdbs/clean/3m1i.pdb	3m1i yeast YRB1 (B) and CRM1 (C)	YRB1	B	3m1i	yeast
+pdbs/clean/3m1i1.pdb	3m1i yeast YRB1 (B) and CRM1 (C)	CRM1	C	3m1i	yeast
+pdbs/clean/3nc1.pdb	3nc1 mamm CRM1	CRM1	B	3nc1	mammalian
+pdbs/clean/3w3z.pdb	3w3z mamm KAP121 (PSE1)	PSE1	C	3w3z	mammalian
+pdbs/clean/3wyf.pdb	3wyf yeast YRB2 (B) and CRM1 (C)	YRB2	B	3wyf	yeast
+pdbs/clean/3wyf1.pdb	3wyf yeast YRB2 (B) and CRM1 (C)	CRM1	C	3wyf	yeast
+pdbs/clean/4hb2.pdb	4hb2 mamm YRB1 (B) and CRM1 (C)	YRB1	B	4hb2	mammalian
+pdbs/clean/4hb21.pdb	4hb2 mamm YRB1 (B) and CRM1 (C)	CRM1	C	4hb2	mammalian
